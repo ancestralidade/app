@@ -1,0 +1,11 @@
+# Segredos e dados locais; sem pressupor stack ou licença
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.log
+Thumbs.db
+.DS_Store
